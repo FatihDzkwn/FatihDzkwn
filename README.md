@@ -54,7 +54,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 ### 📊 Statistik
 
-![Fatih Dzkwn Statistik Github](https://github-readme-stats.vercel.app/api?username=FatihDzkwn&show_icons=true&theme=gruvbox)
+![Fatih Dzkwn Statistik Github](https://github-readme-stats.vercel.app/api?username=FatihDzkwn&show_icons=true&theme=react)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
