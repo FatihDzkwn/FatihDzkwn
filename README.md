@@ -14,7 +14,7 @@ I'm an indie full-stack developer and content creator building my version of the
       <a href="https://www.youtube.com/@fatihdzakwansusilo6731">
          <img alt="Tiktok" title="YouTube views" src="https://custom-icon-badges.demolab.com/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="Twitter" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/X-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+         <img alt="Twitter" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="Facebook" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
