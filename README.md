@@ -8,7 +8,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
    <p align="left">
       <a href="https://www.youtube.com/@fatihdzakwansusilo6731">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEkjorAPcJZga88o50GwDSw?color=%23E05D44&label=YOUTUBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/?color=%23E05D44&label=YOUTUBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
       <a href="https://www.youtube.com/@fatihdzakwansusilo6731">
