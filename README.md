@@ -9,18 +9,18 @@ I'm an indie full-stack developer and content creator building my version of the
    <p align="left">
       <a href="https://www.youtube.com/@fatihdzakwansusilo6731">
          <img alt="Youtube" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/YOUTUBE-E05D44?style=for-the-badge&logo=video&logoColor=white"/></a>                 
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="Instagram" title="Follow my Instagram" src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-      <a href="https://www.youtube.com/@fatihdzakwansusilo6731">
-         <img alt="Tiktok" title="Follow my Tiktok" src="https://custom-icon-badges.demolab.com/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="Twitter" title="Follow my Twitter" src="https://custom-icon-badges.demolab.com/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="Facebook" title="Follow my Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="Linkedin" title="Connect to Linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="Github" title="Follow my GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="https://www.instagram.com/fatihdzkwn_">
+         <img alt="Instagram" title="Follow to my Instagram" src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+      <a href="https://www.tiktok.com/@username">
+         <img alt="Tiktok" title="Follow to my Tiktok" src="https://custom-icon-badges.demolab.com/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a> 
+      <a href="https://x.com/fatihdzkwn_">
+         <img alt="Twitter" title="Follow to my Twitter" src="https://custom-icon-badges.demolab.com/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/></a>
+      <a href="https://www.facebook.com/Fatih Dzkwn">
+         <img alt="Facebook" title="Follow to my Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+      <a href="https://www.linkedin.com/in/Fatih Dzakwan susilo">
+         <img alt="Linkedin" title="Connect to my Linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="https://github.com/FatihDzkwn">
+         <img alt="Github" title="Follow to my GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
    </p>
 
 ---
