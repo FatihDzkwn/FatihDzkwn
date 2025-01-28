@@ -19,7 +19,7 @@ I'm an indie full-stack developer and content creator building my version of the
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
    </p>
 
-
+---
 
 ### 🧰 Languages and Tools
 
