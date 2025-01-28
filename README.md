@@ -3,7 +3,10 @@
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
-<hr/>
+<br/>
+
+<h1>Sosial Media</h1>
+<br/>
    <p align="left">
       <a href="https://www.youtube.com/@fatihdzakwansusilo6731">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCEkjorAPcJZga88o50GwDSw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
