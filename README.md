@@ -2,7 +2,7 @@
 
 **`Problem Solver Man (Data Engineer/Data Anaylst/Data Scientist)`**
 
-<p style="text-align:justify">📢Saya adalah seorang individu yang memiliki rasa ingin tahu yang mendalam terhadap data dan bagaimana data dapat mengungkapkan wawasan yang bermanfaat. Dengan latar belakang yang kuat dalam analisis data dan pemrograman, saya selalu berusaha untuk mengasah keterampilan saya dalam bidang data science. Saya percaya bahwa dalam dunia yang semakin terhubung ini, kemampuan untuk memahami dan menganalisis data adalah kunci untuk mengambil keputusan yang tepat dan menciptakan solusi yang inovatif.</p>
+<p style="text-align:justify"><span style="display: inline-block; width: 1.5em;">📢</span>Saya adalah seorang individu yang memiliki rasa ingin tahu yang mendalam terhadap data dan bagaimana data dapat mengungkapkan wawasan yang bermanfaat. Dengan latar belakang yang kuat dalam analisis data dan pemrograman, saya selalu berusaha untuk mengasah keterampilan saya dalam bidang data science. Saya percaya bahwa dalam dunia yang semakin terhubung ini, kemampuan untuk memahami dan menganalisis data adalah kunci untuk mengambil keputusan yang tepat dan menciptakan solusi yang inovatif.</p>
 
 ### 🌐 Sosial Media
    <p align="left">
