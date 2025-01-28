@@ -1,8 +1,8 @@
 # 🧭 Fatih Dzakwan Susilo
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 **`Problem Solver Man (Data Engineer/Data Anaylst/Data Scientist)`**
 
- Saya adalah seorang individu yang memiliki rasa ingin tahu yang mendalam terhadap data dan bagaimana data dapat mengungkapkan wawasan yang bermanfaat. Dengan latar belakang yang kuat dalam analisis data dan pemrograman, saya selalu berusaha untuk mengasah keterampilan saya dalam bidang data science. Saya percaya bahwa dalam dunia yang semakin terhubung ini, kemampuan untuk memahami dan menganalisis data adalah kunci untuk mengambil keputusan yang tepat dan menciptakan solusi yang inovatif.
+I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
 
 ### 🌐 Sosial Media
    <p align="left">
