@@ -4,7 +4,7 @@
 
 **`Problem Solver Man (Data Engineer/Data Anaylst/Data Scientist)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+Saya adalah seorang individu yang memiliki rasa ingin tahu yang mendalam terhadap data dan bagaimana data dapat mengungkapkan wawasan yang bermanfaat. Dengan latar belakang yang kuat dalam analisis data dan pemrograman, saya selalu berusaha untuk mengasah keterampilan saya dalam bidang data science. Saya percaya bahwa dalam dunia yang semakin terhubung ini, kemampuan untuk memahami dan menganalisis data adalah kunci untuk mengambil keputusan yang tepat dan menciptakan solusi yang inovatif.
 
 ### 🌐 Sosial Media
    <p align="left">
