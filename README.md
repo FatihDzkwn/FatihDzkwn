@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTM2ZTJmbGJpc3RuZ3U0M3FrbGlmOHN0bnp2aDM2M2F6cThlaWtpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
+<img align="right" alt="coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTM2ZTJmbGJpc3RuZ3U0M3FrbGlmOHN0bnp2aDM2M2F6cThlaWtpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
 # 🧭 Fatih Dzakwan Susilo
 
