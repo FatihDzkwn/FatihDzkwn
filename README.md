@@ -21,8 +21,8 @@ I'm an indie full-stack developer and content creator building my version of the
       <a href="https://github.com/FatihDzkwn">
          <img alt="Github" title="Follow to my GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
    </p>
+<br/>
 
----
 
 ### 📚 Bahasa dan Alat
 
