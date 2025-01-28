@@ -56,9 +56,9 @@ Saya adalah seorang individu yang memiliki rasa ingin tahu yang mendalam terhada
 
 ### 📊 Statistik
 
-![Fatih Dzkwn Statistik Github](https://github-readme-stats.vercel.app/api?username=FatihDzkwn&show_icons=true&theme=github_dark)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=FatihDzkwn&show_icons=true&locale=en&layout=compact" alt="yourusername"/>
+![Fatih Dzkwn Statistik Github](https://github-readme-stats.vercel.app/api?username=FatihDzkwn&show_icons=true&theme=github_dark)
 
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
