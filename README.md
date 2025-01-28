@@ -17,7 +17,7 @@ I'm an indie full-stack developer and content creator building my version of the
          <img alt="Twitter" title="Follow to my Twitter" src="https://custom-icon-badges.demolab.com/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/></a>
       <a href="https://www.facebook.com/Fatih Dzkwn">
          <img alt="Facebook" title="Follow to my Facebook" src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-      <a href="https://www.linkedin.com/in/fatih-dzakwan-susilo">
+      <a href="https://www.linkedin.com/in/fatih-dzakwan-susilo-5380b52aa">
          <img alt="Linkedin" title="Connect to my Linkedin" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       <a href="https://github.com/FatihDzkwn">
          <img alt="Github" title="Follow to my GitHub" src="https://custom-icon-badges.demolab.com/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
