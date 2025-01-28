@@ -8,15 +8,15 @@ I'm an indie full-stack developer and content creator building my version of the
 
    <p align="left">
       <a href="https://www.youtube.com/@fatihdzakwansusilo6731">
-         <img alt="Youtube" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/YOUTUBE-E05D44?style=for-the-badge&logo=video&logoColor=white"/></a>                   
+         <img alt="Youtube" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/badge/YOUTUBE-E05D44?style=for-the-badge&logo=video&logoColor=white"/></a>                 
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+         <img alt="total Instagram" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/INSTAGRAM-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
       <a href="https://www.youtube.com/@fatihdzakwansusilo6731">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a> 
+         <img alt="Tiktok" title="YouTube views" src="https://custom-icon-badges.demolab.com/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
+         <img alt="Twitter" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/badge/X-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+         <img alt="Facebook" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
    </p>
